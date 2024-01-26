@@ -1,0 +1,258 @@
+{
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "O00762",
+    "features": [
+        {
+            "type": "Helix",
+            "location": {
+                "start": {
+                    "value": 30,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 45,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        },
+        {
+            "type": "Beta strand",
+            "location": {
+                "start": {
+                    "value": 50,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 54,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        },
+        {
+            "type": "Beta strand",
+            "location": {
+                "start": {
+                    "value": 61,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 68,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        },
+        {
+            "type": "Beta strand",
+            "location": {
+                "start": {
+                    "value": 78,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 84,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        },
+        {
+            "type": "Turn",
+            "location": {
+                "start": {
+                    "value": 87,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 91,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        },
+        {
+            "type": "Beta strand",
+            "location": {
+                "start": {
+                    "value": 95,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 100,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        },
+        {
+            "type": "Beta strand",
+            "location": {
+                "start": {
+                    "value": 111,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 113,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        },
+        {
+            "type": "Helix",
+            "location": {
+                "start": {
+                    "value": 116,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 118,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        },
+        {
+            "type": "Turn",
+            "location": {
+                "start": {
+                    "value": 119,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 121,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        },
+        {
+            "type": "Helix",
+            "location": {
+                "start": {
+                    "value": 128,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 140,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        },
+        {
+            "type": "Helix",
+            "location": {
+                "start": {
+                    "value": 150,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 155,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        },
+        {
+            "type": "Helix",
+            "location": {
+                "start": {
+                    "value": 159,
+                    "modifier": "EXACT"
+                },
+                "end": {
+                    "value": 172,
+                    "modifier": "EXACT"
+                }
+            },
+            "description": "",
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0007829",
+                    "source": "PDB",
+                    "id": "4YII"
+                }
+            ]
+        }
+    ]
+}
