@@ -3,7 +3,7 @@
 
 Hidden Markov Model based predictor to predict secondary structural regions of proteins.
 
-This project includes an HMM model with 4 states: helix, strand, turn and the unknown. First it calculates the transition and emission probabilities based on given train data. Then predicts the secondary structural elements of the human UBE2C protein sequence.
+This project includes an HMM model with 4 states: helix, strand, turn and the unknown. First it calculates the transition and emission probabilities based on given train data. Then predicts the secondary structural elements of the human UBE2C protein sequence using Viterbi algorithm.
 
 
 Notes: 
