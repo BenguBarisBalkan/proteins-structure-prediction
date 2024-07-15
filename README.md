@@ -1,6 +1,4 @@
-# BBM411/AIN411: Fundamentals of (Introduction to) Bioinformatics Assignment
-
-Prediction of secondary structural regions of human UBE2C protein.
+# Prediction of secondary structural regions of human UBE2C protein
 
 # Part 2
 
